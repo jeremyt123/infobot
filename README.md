@@ -5,10 +5,15 @@ The scape.py file will get all course information from the school website and co
 read in the TSV and search for whatever course was specified
 
 Example bot calls
+
 !info cis1500
+
 !info MATH2270
+
 !info CIS*2750
+
 !info discrete math
+
 
 Example output
 
