@@ -11,3 +11,5 @@ Example bot calls
 !info discrete math
 
 Example output
+
+![outputimage](https://github.com/jeremyt123/infobot/blob/master/exampleOut.JPG)
